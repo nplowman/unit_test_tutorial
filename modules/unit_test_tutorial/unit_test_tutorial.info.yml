@@ -1,0 +1,6 @@
+name: Unit Test Tutorial
+type: module
+description: 'Contains sample files for unit test tutorials.'
+package: Tutorials
+core: 8.x
+
